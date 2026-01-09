@@ -1,0 +1,8 @@
+{
+  "label": "Discord Integration",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Thes pages will help you proprely setup Discord and RtCord for proper Discord integration."
+  }
+}
