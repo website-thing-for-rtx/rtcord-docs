@@ -15,7 +15,7 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://docs.rtcord.rtx3080ti0415.qzz.io',
+  url: 'https://docsrtcord.rtx3080ti0415.qzz.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
