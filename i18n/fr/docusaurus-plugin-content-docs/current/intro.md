@@ -29,7 +29,7 @@ Vous avez peut-être vu un fichier `.env.dummy` dans votre dépôt cloné, et vo
 
 - `PORT` - Par défaut **7777**, vous pouvez le modifier si vous souhaitez l'héberger sur un port différent.
 - `SESSION_SECRET` - Par défaut **secret**, c'est la clé de chiffrement pour le cookie de session, il est **fortement recommandé** de changer cette valeur.
-- `WEBHOOK`/`WEBHOOK2` : Webhooks Discord, pour plus d'infos, regardez [ici] (/).
+- `WEBHOOK`/`WEBHOOK2` : Webhooks Discord, pour plus d'infos, regardez [ici](/).
 - `MODE` - Par défaut **server**, cela ne peut être que **dev** ou **server**.
 
 ## Installation des dépendances
